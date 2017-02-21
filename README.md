@@ -6,7 +6,7 @@ Contact: [e-mail](mailto:marko@foundersandcoders.com) | [LinkedIn](https://www.l
 
 ### Web development experience
 
-I am currently completing a **16-week full-stack JavaScript course** at Founders & Coders.
+I have just completed a **16-week full-stack JavaScript course** at Founders & Coders.
 
 As part of the course I have developed a number of websites and web apps, including:
 - a digital and analogue stopwatch app ([GitHub](https://github.com/stevehopkinson/steve-marko-stopwatch))
@@ -15,7 +15,8 @@ As part of the course I have developed a number of websites and web apps, includ
 - an app that searches for recipes and provides grocery ingredient lists ([GitHub](https://github.com/NodeGroup2/GRAGS))
 - a CMS app for storing and sharing coding resources ([GitHub](https://github.com/NodeGroup2/OCD-B))
 - an app that manages information on GitHub issues ([GitHub](https://github.com/seals-of-approval/dish-board))
-- an app that helps young people with low self esteem ([GitHub](https://github.com/CYPIAPT-LNDSE/social-up) - in progress)
+- an app that helps young people with low self esteem ([GitHub](https://github.com/CYPIAPT-LNDSE/social-up))
+- an app that helps young homeless people get housing information ([GitHub](https://github.com/FAC9/centrepoint))
 
 In my projects I have used the following technologies:
 
