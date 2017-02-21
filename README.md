@@ -24,8 +24,9 @@ In my projects I have used the following technologies:
 | HTML5     | Node.js  | Tape      | Git & GitHub
 | CSS3      | Hapi.js  | qUnit     | Heroku | 
 | JavaScript & ES6 | PostgreSQL | Jasmine | Markdown |
-| Bootstrap | Handlebars | Travis | |
-| jQuery | OAuth | | |
+| jQuery | Handlebars | Travis | |
+| Bootstrap | OAuth | | |
+| Materialize | | | | |
 | Redux | | | | |
 
 I am trained in Agile practices, including pair programming, peer code review, and continuous testing and integration methods.
