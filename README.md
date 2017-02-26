@@ -1,36 +1,39 @@
 # CV: Marko Sustarsic
-
-I am a web developer based at Founders & Coders, London, UK.
+Full-stack JavaScript web developer based in London, UK.
 
 Contact: [e-mail](mailto:marko@foundersandcoders.com) | [LinkedIn](https://www.linkedin.com/in/marko-sustarsic-9119a850) | [GitHub](https://github.com/msachi) | [Codepen](https://codepen.io/msachi/) | [Codewars](https://www.codewars.com/users/msachi)
 
+ With a background in academic science and an interest in art, I enjoy both the technically rigorous aspects of application development and the creative aspects of visual design. I always aim to write clean, testable code, take mindful and user-centred approaches to design, and employ pair-programming and agile practices. I am particularly interested in using technology to tackle social and environmental problems, and to improve our health and wellbeing.
+
 ### Web development experience
 
-I have just completed a **16-week full-stack JavaScript course** at Founders & Coders.
-
-As part of the course I have developed a number of websites and web apps, including:
-- a digital and analogue stopwatch app ([GitHub](https://github.com/stevehopkinson/steve-marko-stopwatch))
-- an autocomplete search app ([GitHub](https://github.com/NodeGroup2/autocomplete-project))
-- an app that uses machine learning APIs to analyse images ([GitHub](https://github.com/FAC9/gitbusters_api))
-- an app that searches for recipes and provides grocery ingredient lists ([GitHub](https://github.com/NodeGroup2/GRAGS))
-- a CMS app for storing and sharing coding resources ([GitHub](https://github.com/NodeGroup2/OCD-B))
-- an app that manages information on GitHub issues ([GitHub](https://github.com/seals-of-approval/dish-board))
-- an app that helps young people with low self esteem ([GitHub](https://github.com/CYPIAPT-LNDSE/social-up))
-- an app that helps young homeless people get housing information ([GitHub](https://github.com/FAC9/centrepoint))
-
-In my projects I have used the following technologies:
+In have experience with the following technologies:
 
 | Front-end | Back-end | Testing   | Tools |
 |:---------:|:--------:|:---------:|:---------:|
-| HTML5     | Node.js  | Tape      | Git & GitHub
-| CSS3      | Hapi.js  | qUnit     | Heroku | 
-| JavaScript & ES6 | PostgreSQL | Jasmine | Markdown |
-| jQuery | Handlebars | Travis | |
-| Bootstrap | OAuth | | |
-| Materialize | | | | |
+| HTML5     | Node.js  | qUnit     | Git & GitHub
+| CSS3      | Hapi.js  | Jasmine     | Heroku |
+| JavaScript & ES6 | PostgreSQL | Tape | Markdown |
+| jQuery | Handlebars | Nightwatch | Bash |
+| Bootstrap | OAuth | Travis | |
+| Materialize | | | |
 | Redux | | | | |
 
+Please see [my portfolio](./portfolio.md) for a list of projects I have worked on.
+
 I am trained in Agile practices, including pair programming, peer code review, and continuous testing and integration methods.
+
+_2017, Outlandish, London, UK_  
+**Full-stack web developer (4-week project)**  
+
+Working with Centrepoint, a charity that supports young homeless people. Developing a mobile-first web application that will allow former Centrepoint residents access their Centrepoint address history and information that they may require for their new tenancy agreements. Implemeting Yoti, a digital ID technology that aims to make personal identification simpler and more secure.
+
+Tech stack: HTML, CSS, Materialize, JavaScript, Node.js, hapi.js, PostgreSQL
+
+_2016 - 2017, Founders & Coders, London, UK_  
+**16-week full-stack JavaScript course**  
+
+The course was peer-led and project-based. As a student I delivered seminars and ran code reviews, planned and managed weekly projects, and employed pair programming and agile practices. The course covered test-driven development, using a full JavaScript stack (ES5/6 and Node.js) with relational databases and aspects of UX and UI design.
 
 ### Education
 
@@ -52,14 +55,6 @@ _2003 - 2007, Gimnazija Bezigrad, Ljubljana, Slovenia_
 **National state school programme**  
 Awarded full points
 
-### Achievements and awards
-
-- Awarded a full 4-year PhD scholarship by the Wellcome Trust
-- Awarded a 2-year undergraduate scholarship at Wadham college, Oxford
-- Awarded one university and two college awards for performance in university exams at Oxford 
-- Ranked first in class in first-year university exams at Oxford (1/92)
-- Awarded Zois Scholarship by the Government of Slovenia
-
 ### Academic and technical experience
 
 - Published in internationally renowned scientific journals (4 publications, 2 additional pending) 
@@ -67,6 +62,14 @@ Awarded full points
 - Carried out research projects at Institute Jozef Stefan, Slovenia, and University of Groningen, The Netherlands 
 - Participated in the Amgen Scholars programme at Cambridge University (scientific summer project)
 - Carried out undergraduate teaching of biochemistry practical classes
+
+### Achievements and awards
+
+- Awarded a full 4-year PhD scholarship by the Wellcome Trust
+- Awarded a 2-year undergraduate scholarship at Wadham college, Oxford
+- Awarded one university and two college awards for performance in university exams at Oxford 
+- Ranked first in class in first-year university exams at Oxford (1/92)
+- Awarded Zois Scholarship by the Government of Slovenia
 
 ### Other activities
 
