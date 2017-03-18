@@ -4,7 +4,7 @@
 
 ## Real-world projects
 
-### Centrepoint alumni network ([GitHub](https://github.com/lucy-marko/centrepoint) | [website](https://centrepoint-alumni.herokuapp.com/)) - in progress
+### Centrepoint alumni network ([GitHub](https://github.com/lucy-marko/centrepoint) | [website](https://centrepoint.herokuapp.com/)) - in progress
 
 A mobile-first web app that will allow former Centrepoint residents access their Centrepoint address history and information that they may require for their new tenancy agreements. Implements Yoti, a digital ID technology that aims to make personal identification simpler and more secure.
 
