@@ -11,9 +11,11 @@ A mobile-first web app that will allow former Centrepoint residents access their
 **Tech stack**: HTML, CSS, Materialize, JavaScript, Node.js, hapi.js, PostgreSQL  
 **Co-developer**: Lucy Monie, **partners**: Centrepoint, Outlandish, Yoti  
 
-<img src="snapshots/centrepoint-1.png" height="350"/>
-<img src="snapshots/centrepoint-2.png" height="350"/>
-<img src="snapshots/centrepoint-3.png" height="350"/>
+<p float="left">
+  <img src="snapshots/centrepoint-1.png" height="350"/>
+  <img src="snapshots/centrepoint-2.png" height="350"/>
+  <img src="snapshots/centrepoint-3.png" height="350"/>
+</p>
 
 ### SocialUp ([GitHub](https://github.com/CYPIAPT-LNDSE/social-up) | [website](https://cypiapt-lndse.github.io/social-up/))
 
@@ -24,10 +26,15 @@ A Chrome extension and desktop web app that helps young people deal with low sel
 
 _Please note: This is currently a prototype. We are looking for funding to develop it further._
 
-<img src="snapshots/socialup-1.png" height="230"/>
-<img src="snapshots/socialup-2.png" height="230"/>
-<img src="snapshots/socialup-3.png" height="230"/>
-<img src="snapshots/socialup-4.png" height="230"/>
+<p float="left">
+  <img src="snapshots/socialup-1.png" height="230"/>
+  <img src="snapshots/socialup-2.png" height="230"/>
+</p>
+
+<p float="left">
+  <img src="snapshots/socialup-3.png" height="230"/>
+  <img src="snapshots/socialup-4.png" height="230"/>
+</p>
 
 ## Founders & Coders bootcamp projects
 
@@ -39,9 +46,11 @@ A dashboard for Founders & Coders members to easily view all GitHub issues from 
 
 **Tech stack**: HTML, CSS, JavaScript, hapi.js, Handlebars, OAuth, hapi-auth-cookie, JWTs
 
-<img src="snapshots/dishboard-1.png" height="260"/>
-<img src="snapshots/dishboard-2.png" height="260"/>
-<img src="snapshots/dishboard-3.png" height="260"/>
+<p float="left">
+  <img src="snapshots/dishboard-1.png" height="260"/>
+  <img src="snapshots/dishboard-2.png" height="260"/>
+  <img src="snapshots/dishboard-3.png" height="260"/>
+</p>
 
 ### OCD-B - Open Code DataBase ([GitHub](https://github.com/NodeGroup2/OCD-B))
 
@@ -50,10 +59,15 @@ A content management system for sharing and reviewing coding resources.
 **Tech stack**: HTML, CSS, JavaScript, hapi.js, Handlebars, PostgreSQL  
 **Testing**: Nightwatch
 
-<img src="snapshots/ocdb-1.png" height="260"/>
-<img src="snapshots/ocdb-2.png" height="260"/>
-<img src="snapshots/ocdb-3.png" height="270"/>
-<img src="snapshots/ocdb-4.png" height="270"/>
+<p float="left">
+  <img src="snapshots/ocdb-1.png" height="260"/>
+  <img src="snapshots/ocdb-2.png" height="260"/>
+</p>
+  
+<p float="left">
+  <img src="snapshots/ocdb-3.png" height="270"/>
+  <img src="snapshots/ocdb-4.png" height="270"/>
+</p>
 
 ### GRAGS - Get Recipes And GrocerieS ([GitHub](https://github.com/NodeGroup2/GRAGS) | [website](https://grags.herokuapp.com/))
 
@@ -63,8 +77,10 @@ A web app that searches for recipes and provides grocery shopping lists.
 **API list**: Recipe puppy, Tesco  
 **Testing**: qUnit, Tape
 
-<img src="snapshots/grags-1.png" height="400"/>
-<img src="snapshots/grags-2.png" height="400"/>
+<p float="left">
+  <img src="snapshots/grags-1.png" height="400"/>
+  <img src="snapshots/grags-2.png" height="400"/>
+</p>
 
 ### Text Toads ([GitHub](https://github.com/NodeGroup2/autocomplete-project) | [website](https://nodetojoy-autocomplete.herokuapp.com/))
 
@@ -83,10 +99,16 @@ A web app that uses a machine learning API to interpret a given image, then sugg
 **API list**: Unsplash It, Microsoft Computer Vision, Guardian, musixmatch  
 **Testing**: qUnit
 
-<img src="snapshots/machinspirator-0.png" width="420"/>
-<img src="snapshots/machinspirator-1.png" width="420"/>
-<img src="snapshots/machinspirator-2.png" width="420"/>
-<img src="snapshots/machinspirator-3.png" width="420"/>
+
+<p float="left">
+  <img src="snapshots/machinspirator-0.png" width="420"/>
+  <img src="snapshots/machinspirator-1.png" width="420"/>
+</p>
+
+<p float="left">
+  <img src="snapshots/machinspirator-2.png" width="420"/>
+  <img src="snapshots/machinspirator-3.png" width="420"/>
+</p>
 
 ### Stopwatch ([GitHub](https://github.com/stevehopkinson/steve-marko-stopwatch) | [website](https://stevehopkinson.github.io/steve-marko-stopwatch/))
 
@@ -103,8 +125,10 @@ A template for a portfolio and blog, to be used by our project team at F&C.
 
 **Tech stack**: HTML, CSS
 
-<img src="snapshots/team-portfolio-1.png" height="300"/>
-<img src="snapshots/team-portfolio-2.png" height="300"/>
+<p float="left">
+  <img src="snapshots/team-portfolio-1.png" height="300"/>
+  <img src="snapshots/team-portfolio-2.png" height="300"/>
+</p>
 
 ## Personal projects
 
@@ -114,8 +138,10 @@ A simple mobile web game, made as an exercise in learning the `deviceorientation
 
 **Tech stack**: HTML, CSS, JavaScript, jQuery
 
-<img src="snapshots/marble-game-1.png" width="150"/>
-<img src="snapshots/marble-game-2.png" width="150"/>
+<p float="left">
+  <img src="snapshots/marble-game-1.png" width="150"/>
+  <img src="snapshots/marble-game-2.png" width="150"/>
+</p>
 
 ### Weather app ([GitHub](https://github.com/msachi/weather-app))
 
