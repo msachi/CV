@@ -6,12 +6,12 @@
 
 ### Cannes Lions / Eurobest pass manager ([website](https://www.eurobest.com/passes#/))
 
-A dynamic single-page application used as the main e-commerce platform for purchasing and managing passes for Cannes Lions and Eurobest festivals. Implements complex business logic and ties together a range of functionalities, including handling of delegate information, uploading of photos and ID documents, handling of URL invites and of special delegates (press and jury), managing of booking contacts, purchasing of passes via bank transfer or credit card, replacement of delegates, pass upgrades and visa letter requests.
+A dynamic single-page application used as the main e-commerce platform for purchasing and managing passes for Cannes Lions and Eurobest festivals. Implements complex business logic and ties together a range of functionalities, including handling of delegate information, uploading of photos and ID documents, handling of URL invites and of special delegate passes (press and jury), managing of booking contacts, purchasing of passes via bank transfer or credit card, replacement of delegates, pass upgrades and visa letter requests.
 
-Uses small and reusable React components, Redux and Immutable.js for managing the state and Redux sagas for asynchronicity. Renders forms and form data dynamically using schemas obtained from the API, and applies schema-defined validation rules. Uses modals and portals to display overlays and accordions, and includes complex CSS animations for card flipping. Tested using Jest, Nightwatch and a manual testing framework that recreates the DOM in Node.js.
+Uses small and reusable React components, Redux and Immutable.js for managing the state and Redux sagas for asynchronicity. Renders forms dynamically using JSON schemas obtained from the API, and applies schema-defined validation rules. Uses modals and portals to display overlays and accordions, and includes complex CSS animations for card flipping effects. Tested using Jest, Nightwatch and a manual testing framework that recreates the DOM in Node.js.
 
 **Tech stack**: HTML, CSS, SASS, JavaScript (ES6), React, Redux, Immutable.js  
-**Co-developers**: Campbell Morgan, Besart Shyti, Nora Denes
+**Co-developers**: Cannes Lions team
 
 <p float="left">
   <img src="snapshots/passmanager-1.png" height="400"/>
@@ -23,10 +23,10 @@ Uses small and reusable React components, Redux and Immutable.js for managing th
 
 ### Eurobest pass picker ([website](https://www.eurobest.com/passes#/))
 
-A dynamic, mobile-friendly single-page application that was used to advertise passes for Eurobest 2018. Uses cookies to store pass information locally.
+A dynamic, mobile-friendly single-page application that was used to advertise passes for Eurobest 2018. Uses cookies to store the basket information locally and integrate with pass manager (see above).
 
 **Tech stack**: HTML, CSS, SASS, JavaScript (ES6), React, Redux, Immutable.js  
-**Co-developers**: Besart Shyti
+**Co-developers**: Cannes Lions team
 
 <p float="left">
   <img src="snapshots/passpicker.png" height="400"/>
@@ -37,7 +37,7 @@ A dynamic, mobile-friendly single-page application that was used to advertise pa
 A dynamic, mobile-friendly single-page application that was used by Cannes Lions festival attendees prior to and during the festival. Uses fuzzy searching, filtering and CSS animations.
 
 **Tech stack**: HTML, CSS, SASS, JavaScript (ES6), React, Redux, Immutable.js  
-**Co-developer**: Nora Denes  
+**Co-developers**: Cannes Lions team  
 
 <p float="left">
   <img src="snapshots/planner-1.png" height="350"/>
