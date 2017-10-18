@@ -23,7 +23,7 @@ Uses small and reusable React components, Redux and Immutable.js for managing th
 
 ### Eurobest pass picker ([website](https://www.eurobest.com/passes#/))
 
-A dynamic, mobile-friendly single-page application that was used to advertise passes for Eurobest 2018. Uses cookies to store the basket information locally and integrate with pass manager (see above).
+A dynamic, mobile-friendly single-page application that was used to advertise passes for the Eurobest festival. Uses cookies to store the basket information locally and integrate with pass manager (see above).
 
 **Tech stack**: HTML, CSS, SASS, JavaScript (ES6), React, Redux, Immutable.js  
 **Co-developers**: Cannes Lions team
