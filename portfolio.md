@@ -4,7 +4,7 @@
 
 ## Real-world projects
 
-### Cannes Lions / Eurobest pass manager ([website](https://www.eurobest.com/passes#/))
+### Cannes Lions / Eurobest pass manager ([website](https://eurobest-uat.lionsfestivals.com/passmanager#/))
 
 A dynamic single-page application used as the main e-commerce platform for purchasing and managing passes for Cannes Lions and Eurobest festivals. Implements complex business logic and ties together a range of functionalities, including handling of delegate information, uploading of photos and ID documents, handling of URL invites and of special delegate passes (press and jury), managing of booking contacts, purchasing of passes via bank transfer or credit card, replacement of delegates, pass upgrades and visa letter requests.
 
