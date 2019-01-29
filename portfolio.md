@@ -18,23 +18,37 @@
 
 ### Night Zookeeper Reading Light ([website](https://www.nightzookeeper.com/edu))
 
+A Night Zookeeper single-page application that allows children to keep track of their reading. Children can find their book using a Google Books API-powered search tool, and then log their reading time and write short summaries or longer reviews. Teachers can review and comment on the writing. Includes fun animations that progress with the increasing reading time. Desktop and tablet friendly.
+
+**Tech stack**: HTML, CSS, JavaScript (ES6), React, Styled components, Storybook, GraphQL, Apollo, NodeJS, MongoDB  
+**Co-developers**: Night Zookeeper team
+
 <p float="left">
-  <img src="snapshots/reading-light/tablet-1.png" height="300" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="snapshots/reading-light/tablet-2.png" height="300" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="snapshots/reading-light/tablet-3.png" height="500" style="margin-right: 10px;"/>
-  <img src="snapshots/reading-light/tablet-4.png" height="500" style="margin-right: 10px;"/>
-  <img src="snapshots/reading-light/tablet-5.png" height="500" style="margin-right: 10px;"/>
-  <img src="snapshots/reading-light/tablet-6.png" height="500" style="margin-right: 10px;"/>
+  <img src="snapshots/reading-light/tablet-1.png" height="320" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/reading-light/tablet-2.png" height="320" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/reading-light/tablet-4.png" height="370" style="margin-right: 10px;"/>
+  <img src="snapshots/reading-light/tablet-5.png" height="370" style="margin-right: 10px;"/>
+  <img src="snapshots/reading-light/tablet-6.png" height="370" style="margin-right: 10px;"/>
 </p>
 
 ### Night Zookeeper Class Blog ([website](https://www.nightzookeeper.com/edu))
 
+A Night Zookeeper single-page application that is used as a blog for all the class creations. Works similarly to the Kid's Profile (below) and uses some of the same React components, but has more complex sorting and filtering options. The allowed views and functionality are determined dynamically based on the logged-in user role (student vs. teacher) and which class and school they belong to. Fully responsive.
+
+**Tech stack**: HTML, CSS, JavaScript (ES6), React, Styled components, Storybook, GraphQL, Apollo, NodeJS, MongoDB  
+**Co-developers**: Night Zookeeper team
+
 <p float="left">
-  <img src="snapshots/class-blog/tablet-1.png" height="350" style="margin-bottom: 10px; margin-right: 10px;"/>
-  <img src="snapshots/class-blog/tablet-2.png" height="350" style="margin-bottom: 10px; margin-right: 10px;"/>
-  <img src="snapshots/class-blog/tablet-3.png" height="350" style="margin-bottom: 10px;"/></p>
+  <img src="snapshots/class-blog/tablet-1.png" height="370" style="margin-bottom: 10px; margin-right: 10px;"/>
+  <img src="snapshots/class-blog/tablet-2.png" height="370" style="margin-bottom: 10px; margin-right: 10px;"/>
+  <img src="snapshots/class-blog/tablet-3.png" height="370" style="margin-bottom: 10px;"/></p>
 
 ### Night Zookeeper Kid's Profile ([website](https://www.nightzookeeper.com/edu))
+
+A Night Zookeeper single-page application that allows children to see of all their stats and their writing, drawings, lessons and comments. Includes a number of filters and subfilters for each content category, as well as a search tool. Data is loaded dynamically and in small chunks using GraphQL queries, with infinite scrolling implemented for all content lists. Fully responsive.
+
+**Tech stack**: HTML, CSS, JavaScript (ES6), React, Styled components, Storybook, GraphQL, Apollo, NodeJS, MongoDB  
+**Co-developers**: Night Zookeeper team
 
 <p float="left">
   <img src="snapshots/profile/tablet-1.png" height="320" style="margin-bottom: 10px; margin-right: 10px;"/>
@@ -45,6 +59,11 @@
 </p>
 
 ### Night Zookeeper Kid's Menu ([website](https://www.nightzookeeper.com/edu))
+
+The landing page for children when they log into Night Zookeeper, where they can choose from a number of activities.
+
+**Tech stack**: HTML, CSS, JavaScript (ES6), React, Styled components, Storybook  
+**Co-developers**: Night Zookeeper team
 
 <p float="left">
   <img src="snapshots/kids-menu/tablet-1.png" height="500" style="margin-right: 15px;"/>
