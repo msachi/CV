@@ -4,7 +4,54 @@
 
 ## Real-world projects
 
-### Cannes Lions / Eurobest pass manager ([website](https://www.eurobest.com/pass-manager#/))
+### Night Zookeeper Teacher's Settings ([website](https://www.nightzookeeper.com/edu))
+
+<p float="left">
+  <img src="snapshots/settings/tablet-1.png" height="320" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/settings/tablet-2.png" height="320" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/settings/tablet-3.png" height="320" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/settings/tablet-4.png" height="320" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/settings/tablet-5.png" height="320" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/settings/tablet-6.png" height="320" style="margin-right: 10px; margin-bottom: 10px;"/>
+</p>
+
+
+### Night Zookeeper Reading Light ([website](https://www.nightzookeeper.com/edu))
+
+<p float="left">
+  <img src="snapshots/reading-light/tablet-1.png" height="300" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/reading-light/tablet-2.png" height="300" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="snapshots/reading-light/tablet-3.png" height="500" style="margin-right: 10px;"/>
+  <img src="snapshots/reading-light/tablet-4.png" height="500" style="margin-right: 10px;"/>
+  <img src="snapshots/reading-light/tablet-5.png" height="500" style="margin-right: 10px;"/>
+  <img src="snapshots/reading-light/tablet-6.png" height="500" style="margin-right: 10px;"/>
+</p>
+
+### Night Zookeeper Class Blog ([website](https://www.nightzookeeper.com/edu))
+
+<p float="left">
+  <img src="snapshots/class-blog/tablet-1.png" height="350" style="margin-bottom: 10px; margin-right: 10px;"/>
+  <img src="snapshots/class-blog/tablet-2.png" height="350" style="margin-bottom: 10px; margin-right: 10px;"/>
+  <img src="snapshots/class-blog/tablet-3.png" height="350" style="margin-bottom: 10px;"/></p>
+
+### Night Zookeeper Kid's Profile ([website](https://www.nightzookeeper.com/edu))
+
+<p float="left">
+  <img src="snapshots/profile/tablet-1.png" height="320" style="margin-bottom: 10px; margin-right: 10px;"/>
+  <img src="snapshots/profile/tablet-2.png" height="320" style="margin-bottom: 10px;"/>
+  <img src="snapshots/profile/mobile-1.png" height="400" style="margin-right: 10px;"/>
+  <img src="snapshots/profile/mobile-2.png" height="400" style="margin-right: 10px;"/>
+  <img src="snapshots/profile/mobile-3.png" height="400" style="margin-right: 10px;"/>
+</p>
+
+### Night Zookeeper Kid's Menu ([website](https://www.nightzookeeper.com/edu))
+
+<p float="left">
+  <img src="snapshots/kids-menu/tablet-1.png" height="500" style="margin-right: 15px;"/>
+  <img src="snapshots/kids-menu/tablet-2.png" height="500"/>
+</p>
+
+### Cannes Lions / Eurobest delegate system ([website](https://www.eurobest.com/pass-manager#/))
 
 A dynamic single-page application used as the main e-commerce platform for purchasing and managing passes for Cannes Lions and Eurobest festivals. Implements complex business logic and ties together a range of functionalities, including handling of delegate information, uploading of photos and ID documents, handling of URL invites and of special delegate passes (press and jury), managing of booking contacts, purchasing of passes via bank transfer or credit card, replacement of delegates, pass upgrades and visa letter requests.
 
