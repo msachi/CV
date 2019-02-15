@@ -4,6 +4,14 @@
 
 ## Real-world projects
 
+### Night Zookeeper Messenger
+
+<p float="left">
+  <img src="snapshots/messenger/professor.png" height="450" style="margin-bottom: 10px; margin-right: 10px;"/>
+  <img src="snapshots/messenger/will.png" height="450" style="margin-bottom: 10px; margin-right: 10px;"/>
+  <img src="snapshots/messenger/sam.png" height="450" style="margin-bottom: 10px;"/></p>
+</p>
+
 ### Night Zookeeper Teacher's Settings ([website](https://www.nightzookeeper.com/edu))
 
 <p float="left">
